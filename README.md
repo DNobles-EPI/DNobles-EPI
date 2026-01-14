@@ -29,29 +29,11 @@ Client-specific, proprietary, or confidential materials are **not** published he
 
 ---
 
-## Engineering Approach
-
-- Favor simple, understandable solutions
-- Design for real-world constraints and long-term support
-- Write documentation as a first-class artifact
-- Respect utility standards, safety, and review processes
-- Prefer tools that make engineering work easier, not more complex
-
----
-
-## About Engineering Partners Inc.
-
-Engineering Partners Inc. (EPI) is a women-owned engineering consulting firm specializing in utility infrastructure and industrial power system projects.
-
-🔗 https://www.epi-inc.com
-
----
-
 ## Contact
 
 - GitHub: https://github.com/DNobles-EPI
 - LinkedIn: https://linkedin.com/in/david-nobles
-- Company: Engineering Partners Inc.
+- Company: [Engineering Partners Inc.](https://engineeringpartners.com/)
 
 ---
 
